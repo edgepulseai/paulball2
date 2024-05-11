@@ -13,15 +13,15 @@ const config = {
   favicon: 'img/ed_logo.png',
 
   // Set the production url of your site here
-  url: 'https://edgepulse.github.io',
+  url: 'https://paulball2.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/paulball2/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'paulball2', // Usually your GitHub org/user name.
+  projectName: 'paulball2',
 
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
